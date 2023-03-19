@@ -8,7 +8,6 @@
     "start-dev": "webpack-dev-server --config webpack.dev.js"
   },
   "keywords": [],
-  "author": "Ibnu Choldun <ibnucholdun023@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.8",
