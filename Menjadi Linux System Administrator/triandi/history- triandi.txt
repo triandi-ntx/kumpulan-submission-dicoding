@@ -1,0 +1,11 @@
+perintah yang digunakan
+1. touch script. triandi.sh
+2. nano script. triandi.sh
+3. "ctrl+x" => y =>save file
+4. chmod +x script- triandi.sh
+5. ./script- triandi.sh
+6. touch history- triandi.tx
+7. nano history- triandi.tx
+8. "ctrl+x" => y =>save file
+9. sudo apt install zip
+10. zip submission1-linux- triandi.zip script- triandi.sh history- triandi.txt

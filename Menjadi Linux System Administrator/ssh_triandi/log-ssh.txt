@@ -1,0 +1,42 @@
+feb 18 09:16:26 triandi99 systemd[1]: Starting OpenBSD Secure Shell server...
+feb 18 09:16:28 triandi99 sshd[1068]: Server listening on 0.0.0.0 port 2000.
+feb 18 09:16:28 triandi99 sshd[1068]: Server listening on :: port 2000.
+feb 18 09:16:28 triandi99 systemd[1]: Started OpenBSD Secure Shell server.
+feb 18 09:18:33 triandi99 sshd[2823]: Accepted publickey for dicoding from 127.0.0.1 port 35582 ssh2: RSA SHA256:Ziwnqe0lFxNJjYS8dmh6brWkGGXjF4JAWeNtpFY5SXE
+feb 18 09:18:33 triandi99 sshd[2823]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+feb 18 09:18:55 triandi99 sshd[3123]: Connection closed by authenticating user triandi 127.0.0.1 port 57884 [preauth]
+feb 18 09:21:08 triandi99 sshd[3857]: Connection closed by authenticating user dicoding 127.0.0.1 port 49402 [preauth]
+feb 18 09:21:08 triandi99 sshd[3864]: Connection closed by authenticating user dicoding 127.0.0.1 port 49404 [preauth]
+feb 18 09:21:08 triandi99 sshd[3878]: Accepted publickey for dicoding from 127.0.0.1 port 49410 ssh2: RSA SHA256:Ziwnqe0lFxNJjYS8dmh6brWkGGXjF4JAWeNtpFY5SXE
+feb 18 09:21:08 triandi99 sshd[3878]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+feb 18 09:21:09 triandi99 sshd[3878]: pam_unix(sshd:session): session closed for user dicoding
+feb 18 09:21:35 triandi99 sshd[3934]: Accepted publickey for dicoding from 127.0.0.1 port 38170 ssh2: RSA SHA256:acMHakud47s7ZKr7XkdArzox+k10wfu2Sjjz61HSG68
+feb 18 09:21:35 triandi99 sshd[3934]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+feb 18 09:21:54 triandi99 sshd[3995]: Connection closed by authenticating user triandi 127.0.0.1 port 51590 [preauth]
+feb 18 09:25:13 triandi99 sshd[4330]: Accepted publickey for dicoding from 127.0.0.1 port 35330 ssh2: RSA SHA256:acMHakud47s7ZKr7XkdArzox+k10wfu2Sjjz61HSG68
+feb 18 09:25:13 triandi99 sshd[4330]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+feb 18 09:25:35 triandi99 sshd[4465]: Connection closed by authenticating user triandi 127.0.0.1 port 45522 [preauth]
+feb 18 09:25:59 triandi99 sshd[4483]: Connection closed by authenticating user triandi 127.0.0.1 port 34122 [preauth]
+feb 18 09:26:06 triandi99 sshd[4489]: Connection closed by authenticating user triandi 127.0.0.1 port 34136 [preauth]
+feb 18 09:27:30 triandi99 sshd[1068]: Received signal 15; terminating.
+feb 18 09:27:30 triandi99 systemd[1]: Stopping OpenBSD Secure Shell server...
+feb 18 09:27:30 triandi99 systemd[1]: ssh.service: Deactivated successfully.
+feb 18 09:27:30 triandi99 systemd[1]: Stopped OpenBSD Secure Shell server.
+feb 18 09:27:30 triandi99 systemd[1]: Starting OpenBSD Secure Shell server...
+feb 18 09:27:30 triandi99 sshd[4551]: Server listening on 0.0.0.0 port 2000.
+feb 18 09:27:30 triandi99 sshd[4551]: Server listening on :: port 2000.
+feb 18 09:27:30 triandi99 systemd[1]: Started OpenBSD Secure Shell server.
+feb 18 09:27:40 triandi99 sshd[4555]: Accepted password for triandi from 127.0.0.1 port 60836 ssh2
+feb 18 09:27:40 triandi99 sshd[4555]: pam_unix(sshd:session): session opened for user triandi(uid=1000) by (uid=0)
+feb 18 09:29:08 triandi99 systemd[1]: Stopping OpenBSD Secure Shell server...
+feb 18 09:29:08 triandi99 sshd[4551]: Received signal 15; terminating.
+feb 18 09:29:08 triandi99 systemd[1]: ssh.service: Deactivated successfully.
+feb 18 09:29:08 triandi99 systemd[1]: Stopped OpenBSD Secure Shell server.
+feb 18 09:29:08 triandi99 systemd[1]: Starting OpenBSD Secure Shell server...
+feb 18 09:29:08 triandi99 sshd[5610]: Server listening on 0.0.0.0 port 2000.
+feb 18 09:29:08 triandi99 sshd[5610]: Server listening on :: port 2000.
+feb 18 09:29:08 triandi99 systemd[1]: Started OpenBSD Secure Shell server.
+feb 18 09:29:30 triandi99 sshd[5630]: Accepted publickey for dicoding from 127.0.0.1 port 33212 ssh2: RSA SHA256:acMHakud47s7ZKr7XkdArzox+k10wfu2Sjjz61HSG68
+feb 18 09:29:30 triandi99 sshd[5630]: pam_unix(sshd:session): session opened for user dicoding(uid=1001) by (uid=0)
+feb 18 09:29:48 triandi99 sshd[5761]: Accepted password for triandi from 127.0.0.1 port 48426 ssh2
+feb 18 09:29:48 triandi99 sshd[5761]: pam_unix(sshd:session): session opened for user triandi(uid=1000) by (uid=0)
